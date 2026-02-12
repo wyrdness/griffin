@@ -1,0 +1,370 @@
+{
+  "category": "MYTHOLOGICAL_CREATURE",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/griffin",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "griffin",
+    "name": "Griffin",
+    "aliases": [
+      {
+        "name": "Griffon",
+        "meaning": "Alternative spelling"
+      },
+      {
+        "name": "Gryphon",
+        "meaning": "Alternative spelling"
+      },
+      {
+        "name": "Gryps",
+        "language": "Greek",
+        "meaning": "Original Greek form"
+      }
+    ],
+    "category": "MYTHOLOGICAL_CREATURE",
+    "subcategory": "Chimeric Beast",
+    "tags": [
+      "mythological",
+      "chimeric",
+      "hybrid",
+      "guardian",
+      "heraldry",
+      "ancient",
+      "eagle",
+      "lion"
+    ],
+    "status": "mythological",
+    "description": {
+      "summary": "Legendary creature with the head, wings, and talons of an eagle combined with the body of a lion, symbolizing divine power and guardianship.",
+      "full": "The griffin is a legendary creature combining the features of the king of beasts (lion) and the king of birds (eagle). Depicted with an eagle's head, beak, and wings, and a lion's body and tail, the griffin often has eagle's talons on its forelegs. In ancient mythology, griffins guarded treasures and sacred places, were sacred to Apollo, and their nests were said to contain gold. The griffin likely originated in the Ancient Near East over 5,000 years ago and spread through Scythian, Greek, and Roman cultures. A popular theory suggests griffins were inspired by Protoceratops fossils in gold-mining regions of ancient Scythia, which ancient peoples may have interpreted as the remains of these legendary guardians."
+    },
+    "etymology": {
+      "origin": "From Greek 'gryps' (γρύψ) possibly from 'grypós' (γρυπός) meaning 'curved' or 'hooked' (referring to beak)",
+      "meaning": "Curved, hooked one",
+      "first_use": "Ancient Near East (circa 3000 BCE in art)"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "MYTHOLOGICAL_CREATURE",
+      "type": "Chimeric Beast",
+      "subtype": "Eagle-Lion Hybrid",
+      "variant": "Classical"
+    },
+    "related_phenomena": [
+      {
+        "id": "sphinx",
+        "name": "Sphinx",
+        "relationship": "similar",
+        "description": "Lion body with human or ram head"
+      },
+      {
+        "id": "hippogriff",
+        "name": "Hippogriff",
+        "relationship": "related",
+        "description": "Griffin-horse hybrid (medieval invention)"
+      },
+      {
+        "id": "lamassu",
+        "name": "Lamassu",
+        "relationship": "similar",
+        "description": "Assyrian winged bull or lion with human head"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "description": "Eagle head, wings, and forelegs; lion body and hindlegs",
+      "components": {
+        "head": "Eagle head with sharp, curved beak",
+        "wings": "Large eagle wings",
+        "forelegs": "Eagle talons (in most depictions)",
+        "body": "Lion body, muscular and powerful",
+        "hindlegs": "Lion legs with paws",
+        "tail": "Long lion tail"
+      },
+      "size": "Typically depicted as larger than a lion",
+      "coloration": [
+        "golden (common)",
+        "tawny",
+        "white (occasionally)"
+      ],
+      "features": [
+        {
+          "feature": "Eagle head",
+          "description": "Sharp beak, keen eyes, sometimes ear tufts",
+          "frequency": "always"
+        },
+        {
+          "feature": "Eagle wings",
+          "description": "Large, powerful wings enabling flight",
+          "frequency": "always"
+        },
+        {
+          "feature": "Eagle talons",
+          "description": "Forelegs often depicted as eagle talons rather than lion paws",
+          "frequency": "common"
+        },
+        {
+          "feature": "Lion body",
+          "description": "Powerful feline body and hindquarters",
+          "frequency": "always"
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "ability": "Flight",
+        "description": "Powerful flight capability with eagle wings",
+        "frequency": "always",
+        "evidence_level": "mythological"
+      },
+      {
+        "ability": "Immense strength",
+        "description": "Combined strength of lion and eagle",
+        "frequency": "always",
+        "evidence_level": "mythological"
+      },
+      {
+        "ability": "Guardianship",
+        "description": "Fierce protection of treasures and sacred places",
+        "frequency": "primary role",
+        "evidence_level": "mythological"
+      },
+      {
+        "ability": "Gold detection",
+        "description": "Nests contain gold; guards gold deposits",
+        "frequency": "legendary",
+        "evidence_level": "mythological"
+      }
+    ],
+    "behavior": {
+      "disposition": "fierce guardian, territorial",
+      "patterns": [
+        "Guards treasures fiercely",
+        "Builds nests containing gold",
+        "Mates for life",
+        "Attacks those who steal gold",
+        "Sacred to Apollo"
+      ]
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Ancient Near East origins, spread through Mediterranean and Europe",
+      "regions": [
+        "Ancient Near East (Mesopotamia, Egypt)",
+        "Scythia (Central Asia)",
+        "Ancient Greece",
+        "Ancient Rome",
+        "Medieval Europe"
+      ]
+    },
+    "temporal": {
+      "first_recorded": {
+        "date": "3000 BCE",
+        "circa": true,
+        "source": "Ancient Near Eastern art and seals"
+      },
+      "peak_activity_periods": [
+        {
+          "period": "Ancient Greece and Rome",
+          "description": "Griffin mythology fully developed"
+        },
+        {
+          "period": "Medieval Europe",
+          "description": "Widespread heraldic use"
+        }
+      ]
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "Ancient Near East (circa 3000 BCE), possibly inspired by Protoceratops fossils in Scythian gold-mining regions",
+      "earliest_accounts": "Egyptian and Mesopotamian art (3000+ BCE), Scythian gold decorations",
+      "folklore_connections": "Connected to treasure guardianship, solar deities (Apollo), divine protection"
+    },
+    "timeline": [
+      {
+        "date": "3000 BCE",
+        "event": "First griffin depictions",
+        "significance": "Appear in Ancient Near Eastern art",
+        "source": "Archaeological artifacts"
+      },
+      {
+        "date": "800 BCE",
+        "event": "Greek adoption",
+        "significance": "Griffin mythology enters Greek culture via trade with Scythia",
+        "source": "Greek art and literature"
+      },
+      {
+        "date": "Classical Period",
+        "event": "Sacred to Apollo",
+        "significance": "Griffins associated with sun god Apollo, guarding his treasures",
+        "source": "Greek mythology"
+      },
+      {
+        "date": "Medieval Period",
+        "event": "Christian symbolism",
+        "significance": "Griffins in bestiaries representing Christ (divine and earthly nature)",
+        "source": "Medieval bestiaries"
+      },
+      {
+        "date": "Medieval-Present",
+        "event": "Heraldic symbol",
+        "significance": "Widespread use in European heraldry",
+        "source": "Heraldic records"
+      }
+    ],
+    "modern_era": "Griffins remain popular in heraldry, corporate logos, architecture, and fantasy literature. No biological claims exist."
+  },
+
+  "famous_examples": [
+    {
+      "name": "Griffins of Apollo",
+      "culture": "Greek",
+      "description": "Drew the chariot of Apollo, guarded his gold in the land of the Hyperboreans",
+      "source": "Greek mythology"
+    },
+    {
+      "name": "Scythian gold griffins",
+      "culture": "Scythian",
+      "description": "Griffins guarding gold in the Altai Mountains, fought with Arimaspi (one-eyed people)",
+      "source": "Herodotus, Histories"
+    }
+  ],
+
+  "evidence": {
+    "historical": [
+      {
+        "type": "ancient art",
+        "name": "Archaeological depictions",
+        "description": "Griffin imagery in Ancient Near Eastern, Scythian, Greek, and Roman art",
+        "status": "historical",
+        "analysis": "Widespread artistic motif, no biological evidence"
+      }
+    ]
+  },
+
+  "theories": {
+    "mythological": [
+      {
+        "name": "Divine power symbol",
+        "description": "Griffin represents combination of divine (eagle) and earthly (lion) power",
+        "proponents": ["Classical scholars"],
+        "evidence_cited": ["Christian dual-nature symbolism", "Apollo association"]
+      }
+    ],
+    "historical_basis": [
+      {
+        "name": "Protoceratops fossil theory",
+        "description": "Ancient gold miners in Scythia discovered Protoceratops fossils and interpreted them as griffin remains",
+        "proponents": ["Adrienne Mayor"],
+        "evidence_cited": [
+          "Protoceratops fossils common in Scythian gold-mining regions",
+          "Beaked skull resembles griffin head",
+          "Quadrupedal body similar to depictions",
+          "Geographic overlap with griffin legends"
+        ]
+      },
+      {
+        "name": "Symbolic chimera",
+        "description": "Purely symbolic combination of powerful animals without biological inspiration",
+        "proponents": ["Mythologists"],
+        "evidence_cited": ["Similar chimeras in various cultures", "Symbolic rather than descriptive tradition"]
+      }
+    ]
+  },
+
+  "cultural": {
+    "symbolism": {
+      "primary": [
+        "Divine power and protection",
+        "Vigilance and guardianship",
+        "Strength and intelligence combined",
+        "Courage and nobility"
+      ],
+      "christian": "Dual nature of Christ (divine and earthly)",
+      "heraldic": "Valor, vigilance, and strength"
+    },
+    "heraldry": {
+      "usage": "Extremely common in European heraldry",
+      "examples": [
+        "City of London (Temple Bar)",
+        "Many noble family crests",
+        "University emblems",
+        "Corporate logos"
+      ]
+    },
+    "popular_culture": {
+      "literature": [
+        "Alice's Adventures in Wonderland by Lewis Carroll (Gryphon character)",
+        "Harry Potter series by J.K. Rowling (Gryffindor house symbol)",
+        "Percy Jackson series by Rick Riordan",
+        "Warhammer Fantasy"
+      ],
+      "film_tv": [
+        "Harry Potter films (Gryffindor)",
+        "Dungeons & Dragons film",
+        "Game of Thrones (House Connington)"
+      ],
+      "games": [
+        "Dungeons & Dragons",
+        "World of Warcraft",
+        "Heroes of Might and Magic"
+      ],
+      "architecture": [
+        "Temple Bar, London",
+        "Numerous European buildings and monuments",
+        "University campuses"
+      ]
+    }
+  },
+
+  "sources": [
+    {
+      "id": "herodotus-scythia",
+      "type": "ancient text",
+      "title": "Histories",
+      "authors": ["Herodotus"],
+      "date": "circa 450 BCE"
+    },
+    {
+      "id": "mayor-griffins",
+      "type": "book",
+      "title": "The First Fossil Hunters: Dinosaurs, Mammoths, and Myth in Greek and Roman Times",
+      "authors": ["Adrienne Mayor"],
+      "publication": "Princeton University Press",
+      "date": "2000",
+      "isbn": "978-0691058634"
+    },
+    {
+      "id": "goldman-griffin",
+      "type": "article",
+      "title": "The Origin of the Greek Harpē Sword",
+      "authors": ["Bernard Goldman"],
+      "publication": "American Journal of Archaeology",
+      "date": "1960"
+    }
+  ]
+}
